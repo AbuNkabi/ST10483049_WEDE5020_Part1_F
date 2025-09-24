@@ -118,13 +118,13 @@ Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to We
  Screenshots
 
  <h2>Desktop View</h2>
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]("Images Folder/Screenshot 2025-09-22 131634.png" alt="Desktop" width=)
 
-<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt="Desktop" width="800">
+<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt="Desktop" width="200"/>
 
   <h2>Tablet View</h2>
-  <img src="Images Folder/Screenshot (10).png" alt="Tablet" width="600">
+  <img src="Images Folder/Screenshot (10).png" alt="Tablet" width="600"/>
 
   <h2>Mobile View</h2>
-  <img src="Images Folder/Screenshot (3).png" alt="Mobile" width="300">
+  <img src="Images Folder/Screenshot (3).png" alt="Mobile" width="300"/>
+
 
