@@ -38,51 +38,11 @@ Made all images responsive with max-width: 100% and height: auto.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-REFERENCE PAGE
-http://academic.sun.ac.za/history/downloads/ehlers/peptonic.pdf [assessed on 12  August 2025]
-
-
-
-https://www.pepstores.com/pages/corporate-social-investment [assessed on 12 August 2025]
-
-
-
-Nielsen, J. and Budiu, R., 2012. Mobile Usability. Berkeley: New Riders.
-
-
-
-Krug, S., 2014. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed. Berkeley: New Riders.
-
-
-
-W3C, 2023. Web Content Accessibility Guidelines (WCAG) 2.1. [online] Available at: https://www.w3.org/TR/WCAG21/ [Accessed 17 August 2025].
-
-
-
-Interaction Design Foundation, 2023. What is User Experience (UX) Design?. [online] Available at: https://www.interaction-design.org/literature/topics/ux-design [Accessed 17 August 2025].
-
-
+@@ -49,4 +83,48 @@ Interaction Design Foundation, 2023. What is User Experience (UX) Design?. [onli
 
 PEP Stores, 2023. About Us. [online] Available at: https://www.pepstores.com/about-pep [Accessed 17 August 2025].
 
+ 
 Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability.  
 - Nielsen, J., & Budiu, R. (2012). Mobile Usability.  
 - W3C. (2023). Responsive Web Design Basics. Retrieved from [https://www.w3.org](https://www.w3.org)  
@@ -117,14 +77,14 @@ Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to We
 
  Screenshots
 
- <h2>Desktop View</h2>
+ Desktop View
 
-<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt="Desktop" width="200"/>
+<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt ="Desktop">Expand commentComment on line R122Code has comments. Press enter to view.
 
-  <h2>Tablet View</h2>
-  <img src="Images Folder/Screenshot (10).png" alt="Tablet" width="600"/>
+ Tablet View
 
-  <h2>Mobile View</h2>
-  <img src="Images Folder/Screenshot (3).png" alt="Mobile" width="300"/>
+<img src="Images Folder/Screenshot (10).png" alt ="Tablet">
+Collapse commentComment on line R127AbuNkabi commented on Sep 24, 2025 AbuNkabion Sep 24, 2025OwnerAuthorMore actionsWrite a replyCode has comments. Press enter to view.
+Mobile View
 
-
+<img src="Images Folder/Screenshot (3).png" alt="Mobile">Collapse commentComment on line R130AbuNkabi commented on Sep 24, 2025 AbuNkabion Sep 24, 2025OwnerAuthorMore actions
