@@ -79,7 +79,7 @@ Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to We
 
  Desktop View
 
-<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt ="Desktop">
+<img src="[Images Folder/Screenshot 2025-09-22 131634.png](https://github.com/AbuNkabi/ST10483049_WEDE5020_Part1_F/blob/main/Images%20folder/Screenshot%202025-09-22%20131634.png)" alt ="Desktop">
 
  Tablet View
 
@@ -88,4 +88,5 @@ Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to We
 Mobile View
 
 <img src="Images Folder/Screenshot (3).png" alt="Mobile">
+
 
