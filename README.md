@@ -79,12 +79,13 @@ Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to We
 
  Desktop View
 
-<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt ="Desktop">Expand commentComment on line R122Code has comments. Press enter to view.
+<img src="Images Folder/Screenshot 2025-09-22 131634.png" alt ="Desktop">
 
  Tablet View
 
 <img src="Images Folder/Screenshot (10).png" alt ="Tablet">
-Collapse commentComment on line R127AbuNkabi commented on Sep 24, 2025 AbuNkabion Sep 24, 2025OwnerAuthorMore actionsWrite a replyCode has comments. Press enter to view.
+
 Mobile View
 
-<img src="Images Folder/Screenshot (3).png" alt="Mobile">Collapse commentComment on line R130AbuNkabi commented on Sep 24, 2025 AbuNkabion Sep 24, 2025OwnerAuthorMore actions
+<img src="Images Folder/Screenshot (3).png" alt="Mobile">
+
