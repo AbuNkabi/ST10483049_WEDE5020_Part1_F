@@ -77,16 +77,17 @@ Krug, S. (2014). Don’t Make Me Think, Revisited: A Common Sense Approach to We
 
  Screenshots
 
- Desktop View
-
-<img src="[Images Folder/Screenshot 2025-09-22 131634.png](https://github.com/AbuNkabi/ST10483049_WEDE5020_Part1_F/blob/main/Images%20folder/Screenshot%202025-09-22%20131634.png)" alt ="Desktop">
+<img  width="494" height="559" src="https://github.com/AbuNkabi/ST10483049_WEDE5020_Part1_F/blob/main/Images%20folder/Screenshot%202025-09-22%20131634.png"/>
 
  Tablet View
 
-<img src="Images Folder/Screenshot (10).png" alt ="Tablet">
+<img  width="494" height="559" src=https://github.com/AbuNkabi/ST10483049_WEDE5020_Part1_F/blob/main/Images%20folder/Screenshot%20(10).png/>
+
 
 Mobile View
 
-<img src="Images Folder/Screenshot (3).png" alt="Mobile">
+<img  width="494" height="559" src=https://github.com/AbuNkabi/ST10483049_WEDE5020_Part1_F/blob/main/Images%20folder/Screenshot%20(3).png/>
+
+
 
 
